@@ -1,0 +1,58 @@
+{
+  "quiz": [
+    {
+      "id":"0",
+      "duration":90,
+      "minScore":70,
+      "title":"General Quiz",
+      "items":[
+        {
+          "id":"0",
+          "question":"2 + 4 * 2 = ?",
+          "points":10,
+          "answers":[
+            {
+              "label":"12",
+              "isCorrect":false
+            },
+            {
+              "label":"6",
+              "isCorrect":false
+            },
+            {
+              "label":"10",
+              "isCorrect":true
+            },
+            {
+              "label":"8",
+              "isCorrect":false
+            }
+          ]
+        },
+        {
+          "id":"1",
+          "question":"What year did World War 1 end?",
+          "points":15,
+          "answers":[
+            {
+              "label":"1890",
+              "isCorrect":true
+            },
+            {
+              "label":"1945",
+              "isCorrect":false
+            },
+            {
+              "label":"1926",
+              "isCorrect":false
+            },
+            {
+              "label":"1918",
+              "isCorrect":true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
